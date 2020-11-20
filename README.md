@@ -3,6 +3,6 @@
 ### Too Busy Doin Nothin 😎
 
 ```
-sudo su 
+$ sudo su 
 ```
 
