@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=moranleven&label=Profile%20views&color=0e75b6&style=flat" alt="github-profile-views">
+<img align="right" src="https://komarev.com/ghpvc/?username=moranleven&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="github-profile-views&base=1000&abbreviated=true">
 ### Hi there 👋
 
 ### Too Busy Doin Nothin 😎
